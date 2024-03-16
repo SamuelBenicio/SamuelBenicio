@@ -4,6 +4,7 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 - 🔭 Atualmente estou cursando Engenharia da Computacao e estou no 3° semestre
 - 🌱 Estou aprendendo Java e Python atualmente. Me aprofundando em Orientacao a objetos em Java
+
 ## Estou aprendendo
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width="40" height="40"/>
